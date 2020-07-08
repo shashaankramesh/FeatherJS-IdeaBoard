@@ -1,0 +1,17 @@
+{
+  "name": "realtime-ideaboard-featherjs",
+  "version": "1.0.0",
+  "description": "A realtime ideaboard using FeatherJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Shashaank",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.4",
+    "@feathersjs/feathers": "^4.5.3",
+    "@feathersjs/socketio": "^4.5.4",
+    "moment": "^2.27.0"
+  }
+}
